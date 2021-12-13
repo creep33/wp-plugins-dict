@@ -6,6 +6,7 @@ Updated: 28/10/2021
 
 MD5: b602d09ef12e1f4a21f9b11eb3de000e
 
+Fuzz each line in wp-content/plugins/
 
 Dictionary created with the command:
 
